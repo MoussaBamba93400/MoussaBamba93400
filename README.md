@@ -15,10 +15,8 @@
 
 I am currently a student Web Developer at OpenClassroom <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from france.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🔭 I’m learning frontend and backend for building web applications.
 - ⚡ In my free time I solve problems on CodinGame and learn on freecodcamp.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
-
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
