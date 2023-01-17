@@ -13,10 +13,10 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am currently a student Web Developer at OpenClassroom <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from france.
+I am currently a student Software Developer at LiveCampus and work as an intern Web developer at Allegro musique <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from france.
 
 - 🔭 I’m learning frontend and backend for building web applications.
-- ⚡ In my free time I solve problems on CodinGame and learn on freecodcamp.
+- ⚡ In my free time I solve problems on CodinGame, learn on freecodcamp and do a lot of sports.
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
