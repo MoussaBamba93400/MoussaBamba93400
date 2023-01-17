@@ -13,7 +13,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am currently a student Software Developer at LiveCampus and work as an intern Web developer at Allegro musique <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from france.
+I am currently a student Software Developer at LiveCampus and work as an intern Web developer at Allegro musique where i'm learning PHP Laravel and Vue.js  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from france.
 
 - 🔭 I’m learning frontend and backend for building web applications.
 - ⚡ In my free time I solve problems on CodinGame, learn on freecodcamp and do a lot of sports.
@@ -30,6 +30,7 @@ I am currently a student Software Developer at LiveCampus and work as an intern 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" **alt="mongodb" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-plain.svg" title="vuejs" **alt="vuejs" width="40" height="40"/>&nbsp;
 </p>
 
 ---
