@@ -42,5 +42,5 @@ I am currently a student Software Developer at LiveCampus and work as an intern 
 
 
 Footer
-© 2022 GitHub, Inc.
+© 2023 GitHub, Inc.
 Footer navigation
