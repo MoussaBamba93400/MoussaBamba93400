@@ -3,7 +3,7 @@
 Développeur web fullstack avec une spécialisation en automatisation et sécurité.
 Passionné par la création d'outils concrets qui résolvent de vrais problèmes métier.
 
-Actuellement en alternance (fin juillet 2025) — ouvert aux opportunités dev / sécu en Île-de-France à partir d'août 2025.
+Actuellement en alternance (fin juillet 2026) — ouvert aux opportunités dev / sécu en Île-de-France à partir d'août 2026.
 
 - 🎓 Bac+3 Concepteur Développeur d'Applications (CDA)
 - 🔐 Bac+4 Expert en sécurité des développements informatiques (en cours)
