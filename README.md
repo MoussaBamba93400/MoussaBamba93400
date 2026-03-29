@@ -1,46 +1,46 @@
+# 👋 Moussa Bamba
 
-<p align="center">
-<a href="https://www.linkedin.com/in/moussabamba20/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=MoussaBamba93400&style=flat-square&color=blue" alt=""></p>
+Développeur web fullstack avec une spécialisation en automatisation et sécurité.
+Passionné par la création d'outils concrets qui résolvent de vrais problèmes métier.
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+Actuellement en alternance (fin juillet 2025) — ouvert aux opportunités dev / sécu en Île-de-France à partir d'août 2025.
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
-### :man_technologist: &nbsp;About Me :
-
-I am currently a student Software Developer at LiveCampus and work as an intern Web developer at Allegro musique where i'm learning PHP Laravel and Vue.js  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from france.
-
-- 🔭 I’m learning frontend and backend for building web applications.
-- ⚡ In my free time I solve problems on CodinGame, learn on freecodcamp and do a lot of sports.
----
-
-### 🛠 &nbsp;Languages and Tools :
-
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" **alt="mongodb" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-plain.svg" title="vuejs" **alt="vuejs" width="40" height="40"/>&nbsp;
-</p>
+- 🎓 Bac+3 Concepteur Développeur d'Applications (CDA)
+- 🔐 Bac+4 Expert en sécurité des développements informatiques (en cours)
+- 🌐 Préparation CCNA — réseau & infra
+- 🤖 Automatisation de workflows avec n8n + IA (Gemini, GPT)
 
 ---
 
+## 🛠 Stack & outils
 
+**Langages** : JavaScript, PHP, HTML/CSS, Python
+**Frameworks** : Laravel, Vue.js, React, Node.js
+**Automatisation** : n8n, Gemini API, intégrations REST
+**Réseau** : TCP/IP, VLAN, routing (CCNA en cours)
+**Outils** : Git, Postman, MongoDB, MySQL
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoussaBamba93400&layout=compact)](https://github.com/MoussaBamba93400/github-readme-stats)
 ---
 
+## 🚀 Projets en vedette
 
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
+### 📊 Extraction automatique de relevés bancaires → Excel
+Workflow n8n qui analyse n'importe quel relevé bancaire au format PDF et exporte les transactions dans un fichier Excel structuré. Fonctionne avec tous les formats PDF via Gemini AI.
+
+<!--  [Voir le projet](#) | Technologies : n8n · Gemini API · Excel -->
+
+---
+
+### 🔍 Vérification de photo de profil (visage humain)
+Workflow n8n qui valide automatiquement qu'une photo de profil contient bien un visage humain — utile pour les plateformes de mise en relation.
+
+<!-- → [Voir le projet](#) | Technologies : n8n · Vision AI -->
+
+---
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/moussabamba20/)
+
+💼 Disponible pour missions freelance (automatisation n8n, dev web)
+📍 Île-de-France
